@@ -1,0 +1,147 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    position: right # position of the sidebar : left or right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Shu Jing, Li
+    tagline: Front-end Development Engineer
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: super_lishujing@163.com
+    website: lishujing.github.io
+    github: lishujing
+    pdf: /assets/images/lishujing.pdf
+
+    languages:
+      title: Languages
+      info:
+        - idiom: Chinese
+          level: Native
+
+        - idiom: English
+          level: Basic
+
+    interests:
+      title: Interests
+      info:
+        - item: Dancing
+          link:
+
+        - item: Singing
+          link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      A Front-end Development Engineer is a professional responsible for designing and developing the user interface (UI) and user experience (UX) components of a website or web application. I collaborate with designers, back-end developers, and other stakeholders to create visually appealing and functional web interfaces that meet the needs of the users.. Actively seeking full time opportunities in  software engineering.
+
+      - Proficiency in HTML, CSS, and JavaScript.
+      - Experience with front-end frameworks such as Vue.js.
+      - Familiarity with responsive design principles and mobile-first development.
+      - Understanding of version control systems, such as Git.
+      - Ability to work effectively in a collaborative team environment.
+      - Strong problem-solving and troubleshooting skills.
+      - Excellent attention to detail and ability to deliver high-quality work.
+      - Good communication and interpersonal skills to effectively collaborate with team members and stakeholders.
+      - Continuous learning mindset to keep up with evolving technologies and trends.
+
+education:
+    title: Education
+    info:
+      - degree: BSc in MIS
+        university: Shaoguan University
+        time: 2017 - 2021
+
+experiences:
+    title: Experiences
+    info:
+      - role: Front-end Development Engineer
+        time: 2021.6 - 2024.4
+        company: Guangdong Tianxun Telecom Technology Co., Ltd.
+        details: |
+          - Architect and design front-end project frameworks and establish coding standards and best practices.
+          - Develop and maintain a scalable and reusable front-end architecture for web applications.
+          - Collaborate with cross-functional teams to gather requirements and translate them into technical specifications.
+          - Build and maintain a comprehensive and efficient component library to streamline development processes.
+          - Implement responsive and accessible designs, ensuring optimal user experiences across different devices and platforms.
+          - Write clean, modular, and maintainable code using HTML, CSS, and JavaScript frameworks.
+          - Conduct thorough testing and debugging to ensure high-quality, bug-free front-end deliverables.
+          - Collaborate with back-end developers to integrate front-end interfaces with server-side systems.
+          - Optimize front-end performance to deliver fast and seamless user experiences.
+          - Stay up-to-date with emerging front-end technologies, trends, and industry best practices.
+          - Provide technical guidance and mentorship to junior front-end developers.
+          - Participate in code reviews to maintain code quality and ensure adherence to established standards.
+          - Troubleshoot and resolve front-end issues reported by users or stakeholders.
+          - Collaborate with UX designers to ensure the implementation of intuitive and visually appealing interfaces.
+          - Contribute to continuous improvement initiatives to enhance development processes and productivity.
+
+      - role: Front-end Development Intern
+        time: 2020.7 - 2021.2
+        company: Shenzhen Sparklet Software Technology Co.,Ltd
+        details: |
+          - Assist in the development of front-end projects under the guidance of senior front-end developers.
+          - Collaborate with the team to gather requirements and translate them into technical specifications.
+          - Implement user interfaces using HTML, CSS, and JavaScript based on design mockups and wireframes.
+          - Help in building and maintaining a component library to facilitate efficient and consistent development.
+          - Conduct testing and debugging to identify and resolve front-end issues and ensure optimal functionality.
+          - Optimize web applications for improved performance and responsiveness.
+          -  Assist in integrating front-end interfaces with back-end systems and APIs.
+          - Stay up-to-date with the latest front-end technologies and trends, and contribute ideas to enhance projects.
+          - Support the team in conducting code reviews and implementing best practices for code quality and consistency.
+          - Collaborate with UX designers to ensure the implementation of intuitive and visually appealing interfaces.
+          - Assist in troubleshooting and resolving front-end issues reported by users or stakeholders.
+          - Contribute to documentation efforts, such as creating user guides or developer documentation.
+
+projects:
+    title: Projects
+    intro: >
+      During my professional experience and personal endeavors, I have been involved in various front-end development projects, showcasing my skills and passion for creating engaging web interfaces. Below is a summary of some of the key projects I have worked on:
+    assignments:
+      - title: Large-Screen Data Visualization Low-Code Platform
+        link: "#"
+        tagline: "Optimized project architecture and implemented modifications based on requirements to develop a data visualization low-code design platform. And implemented features such as customizable chart configurations and interactive data interactions."
+
+      - title: Micro-Frontend Project Development
+        link: "#"
+        tagline: "Built micro-frontend architecture and collaborated with project managers to integrate business projects. And implemented data communication between different business projects and encapsulated common component methods."
+
+      - title: Development of Customized Component Library based on Vant
+        link: "#"
+        tagline: "Developed a UI component library based on Vant 4, tailored to meet the company's business development needs. Included basic components, business components, and utility methods in the library. Uploaded the component library to the company's private network server for convenient downloading and usage by the development team."
+
+      - title: WebApp Project Development
+        link: "#"
+        tagline: "Gained an understanding of the company's subscription package business and developed the corresponding business processes. Implemented a unified method for invoking native functionalities and encapsulated a unified interface for API requests."
+
+      - title: Data Display for Panyu Base Station Large Screen
+        link: "#"
+        tagline: "Adapted the interface for large-screen data visualization and utilized ECharts to implement chart visualizations. Developed subpages for the Panyu large-screen display and rendered the data accordingly."
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Javascript & TypeScript
+        level: 95%
+
+      - name: HTML & CSS
+        level: 95%
+
+      - name: Vue
+        level: 95%
+
+      - name: Three.js
+        level: 90%
+
+      - name: Next.js / React
+        level: 65%
+
+      - name: Go
+        level: 40%
+
